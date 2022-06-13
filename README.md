@@ -31,3 +31,6 @@ Looking to combine many features into a distinct, easy-to-build package for fast
 ### Advanced:
 > - Multipurpose Bot (Server Welcome, Action Logging, Bot Permissions System, Advanced User/Server Editor, Advanced Mod Commands): **$80 ($90 value | 11% off)**
 > - All-in-One (Server Welcome, Action Logging, Message to Webhook System, Bot Permissions System, Advanced User/Server Editor, Advanced Mod Commands, Advanced Economy): **$120 ($140 value | 14% off)**
+
+# Interested in Purchasing?
+If you're interested in making a purchase, please DM me on Discord @ **ÄsthetischerMensch#1000**, DM me on twitter @ [dan_perkins1](https://twitter.com/dan_perkins1), or email me @ [danielrperkins05@gmail.com](mailto:danielrperkins05@gmail.com?subject=COMMISSION)
