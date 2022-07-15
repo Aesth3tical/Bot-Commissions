@@ -35,4 +35,4 @@ Looking to combine many features into a distinct, easy-to-build package for fast
 # Interested in Purchasing?
 If you're interested in making a purchase, please DM me on Discord @ **ÄsthetischerMensch#1000**, DM me on twitter @ [dan_perkins1](https://twitter.com/dan_perkins1), or email me @ [danielrperkins05@gmail.com](mailto:danielrperkins05@gmail.com?subject=COMMISSION)
 
-Please note 50% payment is due upfront, accepted payment methods are bank transfer, cashapp, paypal, or gift card. You will receive your bot within 2 weeks or so of purchase, in most cases, and will be notified of any delays.
+Please note 50% payment is due upfront, accepted payment methods are bank transfer, cashapp or paypal. You will receive your bot within 2 weeks or so of purchase, in most cases, and will be notified of any delays.
